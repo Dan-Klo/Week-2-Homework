@@ -1,0 +1,114 @@
+    * {
+     
+    }
+    
+    header {
+      text-align: center;
+      color: white;
+      font-size: 20px;
+      height: 25px;
+      width: 1vpw;
+      background: gray;
+      padding-left: 20px;
+      
+      
+    }
+
+
+    body {
+      background-image: url('https://as2.ftcdn.net/v2/jpg/02/61/81/33/1000_F_261813305_0DsOJSve8OV1h4QUbsD0CoAsTEMXXd0N.jpg');
+      width: 1vpw;
+      height:auto;
+      background-repeat: repeat;
+      
+    }
+
+    
+    h1 {
+        padding-bottom:40px;
+        text-align: center;
+        color: rgba(179, 245, 57);
+        font-size: 25px;
+        background-image: url('https://ccse.kennesaw.edu/it/images/it-header.jpg'); alt: "Tech Background";
+        height:150px;
+        width: 1vpw;
+        border: 10px solid #555;
+        border-radius:20px;
+
+    }
+
+
+    h2 {
+        
+      text-align: center;
+      background-color: skyblue;
+
+      }
+
+    
+    h3 {
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+      }
+
+    
+    .projects {
+        
+      text-align: center;
+    }
+  
+
+
+     h4 {
+       height:400px;
+       width:100%;
+      text-align:center;
+      color: rgb(245, 170, 57);
+      font-size: 40px;
+      background-color: skyblue;
+      
+    }
+
+    .contact {
+        
+      text-align: center;
+      background-color: whitesmoke;
+      border-radius: 20px;
+
+      }
+
+     .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border: 10px solid #555;
+    }
+    
+
+    figcaption {
+        background-color: whitesmoke;
+        color: rgb(114, 112, 112);
+        font-style: italic;
+        padding: 2px;
+        text-align: center;
+    }
+
+        
+    
+    footer {
+        padding: 10px;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        background-image: url('https://alamoacademies.com/wp-content/uploads/2019/02/alamo-academies-IT-header-1500x317.jpg');
+        border: 10px solid #555;
+        height: 150px;
+        width: 1vpw;
+        padding-bottom:20px;
+        border-radius:20px;
+        
+    }
