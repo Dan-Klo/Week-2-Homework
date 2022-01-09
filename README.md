@@ -15,12 +15,16 @@ You can find the GitHub repository at: https://github.com/Dan-Klo/danielk-portfo
 ## Features in Development
 I will continue to add to this portfolio website, and as I develop new skills and projects the site will be updated to reflect that.
 
-My efforts will be focused on replacing the placeholder images with screenshots and links to real deployed projects.
+My future efforts will be focused on:
 
-After that I will refine its layout and appearance.
+  Replacing the placeholder images with screenshots and links to real deployed projects.
 
-I am looking forward to seeing how my portfolio evolves as I continue to learn.
+  Refine the general layout and appearance.
+
+  Make the contact form functional.
+
+I would also like to add a small section about my personal interests to give the reader a better sense of who I am as a person beyond software development. I am looking forward to seeing how my portfolio evolves as I continue to learn.
 
 Thanks for looking!
-Daniel
+Daniel Thomas Klotz
 
