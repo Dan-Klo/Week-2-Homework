@@ -9,7 +9,7 @@ You can find the deployed website at: https://dan-klo.github.io/danielk-portfoli
 
 You can find the GitHub repository at: https://github.com/Dan-Klo/danielk-portfolio.
 
-![If you can read this...I messed up.](portfolio-thumbnail.png?raw=true "A screenshot from my portfolio website")
+![If you can read this...I messed up.](screenshot.png?raw=true "A screenshot from my portfolio website")
 
 
 ## Features in Development
