@@ -7,5 +7,18 @@ This is my professional software engineering portfolio. Here I will showcase ski
 You can find the deployed website at: https://dan-klo.github.io/danielk-portfolio/
 You can find the GitHub repository at: https://github.com/Dan-Klo/danielk-portfolio
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![If you can read this...I messed up.](portfolio-thumbnail.png?raw=true "A screenshot from my portfolio website")
+
+
+## Features in Development
+I will continue to add to this portfolio website, and as I develop new skills and projects the site will be updated to reflect that.
+
+My efforts will be focused on replacing the placeholder images with screenshots and links to real deployed projects.
+
+After that I will refine its layout and appearance.
+
+I am looking forward to seeing how my portfolio evolves as I continue to learn.
+
+Thanks for looking!
+Daniel
 
