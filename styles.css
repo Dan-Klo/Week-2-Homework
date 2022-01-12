@@ -63,8 +63,6 @@
 
 
      h4 {
-       height:400px;
-       width:100%;
       text-align:center;
       color: rgb(245, 170, 57);
       font-size: 40px;
@@ -77,6 +75,7 @@
       text-align: center;
       background-color: whitesmoke;
       border-radius: 20px;
+      width: 1vpw;
 
       }
 
