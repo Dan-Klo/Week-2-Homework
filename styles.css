@@ -6,7 +6,7 @@
       text-align: center;
       color: white;
       font-size: 20px;
-      height: 25px;
+      height: auto;
       width: 1vpw;
       background: gray;
       padding-left: 20px;
@@ -18,7 +18,7 @@
     body {
       background-image: url('https://as2.ftcdn.net/v2/jpg/02/61/81/33/1000_F_261813305_0DsOJSve8OV1h4QUbsD0CoAsTEMXXd0N.jpg');
       width: 1vpw;
-      height:auto;
+      height: auto;
       background-repeat: repeat;
       
     }
